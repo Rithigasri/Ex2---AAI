@@ -1,4 +1,4 @@
-## EPERIMENT 02: Implementation of Exact Inference Method of Bayesian Network
+## EXPERIMENT 02: Implementation of Exact Inference Method of Bayesian Network
 ### Name: Rithiga Sri B
 ### Register Number: 212221230083
 ### Date: 05.09.2024
